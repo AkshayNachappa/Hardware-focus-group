@@ -1,3 +1,8 @@
+/* download the dht sensor library by adafruit from library manager or from external link 
+and add it to the code by using "add .zip file" in library manager */
+
+
+
 #include <DHT.h>
 DHT dht(4,DHT11);
 void setup() 
