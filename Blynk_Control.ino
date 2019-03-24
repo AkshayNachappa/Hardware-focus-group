@@ -1,3 +1,8 @@
+// download blynk library from https://github.com/blynkkk/blynk-library/releases 
+// source code (zip)
+// add the .zip file library to the code 
+
+
 #include <Blynk.h>
 
 #define BLYNK_PRINT Serial
